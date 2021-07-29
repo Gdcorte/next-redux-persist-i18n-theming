@@ -1,0 +1,23 @@
+{
+    "Language": "Idioma",
+    "Theme": "Tema",
+    "Color": "Cor",
+    "Basic Application": "Aplicação Básica",
+    "Go to Buttons Page": "Ir para os Botões",
+    "Go to DateTime FIelds Page": "Ir para os campos de DateTime",
+    "Go to Inputs Page": "Ir para os campos de entrada",
+    "Return": "Retorna",
+    "Simple Input Simple COntainer": "Entrada Simples, Container Simples",
+    "CHeckbox": "Caixa de checagem 1",
+    "Option 1": "Opção 1",
+    "Option 2": "Opção 2",
+    "Default": "Padrão",
+    "Primary": "Primário",
+    "Secondary": "Secundário",
+    "Tertiary": "Terciário",
+    "Disabled": "Desabilitado",
+    "Success": "Sucesso",
+    "Alert": "Alerta",
+    "Info": "Informação",
+    "Warning": "Atenção"
+}

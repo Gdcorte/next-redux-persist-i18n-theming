@@ -1,0 +1,23 @@
+{
+    "Language": "言語",
+    "Theme": "テーマ",
+    "Color": "色",
+    "Basic Application": "基本应用",
+    "Go to Buttons Page": "转到按钮页",
+    "Go to DateTime FIelds Page": "转到日期时间字段页",
+    "Go to Inputs Page": "转到输入页",
+    "Return": "返回",
+    "Simple Input Simple COntainer": "简单输入简单容器",
+    "CHeckbox": "复选框",
+    "Option 1": "选项1",
+    "Option 2": "选项2",
+    "Default": "默认",
+    "Primary": "一级",
+    "Secondary": "二级",
+    "Tertiary": "三级",
+    "Disabled": "已禁用",
+    "Success": "成功",
+    "Alert": "警报",
+    "Info": "信息",
+    "Warning": "警告"
+}

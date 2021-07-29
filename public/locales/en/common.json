@@ -1,0 +1,23 @@
+{
+    "Language": "Language",
+    "Theme": "Theme",
+    "Color": "Color",
+    "Basic Application": "Basic Application",
+    "Go to Buttons Page": "Go to Buttons Page",
+    "Go to DateTime FIelds Page": "Go to DateTime FIelds Page",
+    "Go to Inputs Page": "Go to Inputs Page",
+    "Return": "Return",
+    "Simple Input Simple COntainer": "Simple Input Simple COntainer",
+    "CHeckbox": "Checkbox",
+    "Option 1": "Option 1",
+    "Option 2": "Option 2",
+    "Default": "Default",
+    "Primary": "Primary",
+    "Secondary": "Secondary",
+    "Tertiary": "Tertiary",
+    "Disabled": "Disabled",
+    "Success": "Success",
+    "Alert": "Alert",
+    "Info": "Info",
+    "Warning": "Warning"
+}
