@@ -18,14 +18,8 @@ import {
 
 export const getTheme = (themeName: string = ''): ThemeInterface => {
     let themeMap = {
-        // lightpink: LightPink,
-        // darkpink: DarkPink,
         lightgreen: LightGreen,
         darkgreen: DarkGreen,
-        // lightblue: LightBlue,
-        // darkblue: DarkBlue,
-        // lightyellow: LightYellow,
-        // darkyellow: DarkYellow,
     }
 
     return themeMap[themeName] || DarkGreen
